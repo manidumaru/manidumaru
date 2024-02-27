@@ -1,6 +1,5 @@
 ### Hi there 👋, Mani Dumaru
 #### Software Development and Design
-![Software Development and Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
