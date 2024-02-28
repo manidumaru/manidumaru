@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mani Dumaru</h1>
 <h4 align="center">Full Stack Developer, but I mostly hang out on the flashy side. You know, where the colors have deep philosophical debates.</h4>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="coding" align="right" height="300px">
+<img src="https://github.com/manidumaru/manidumaru/blob/main/UI%20Developer.gif" alt="coding" align="right" height="300px">
 
 - 🔭 I’m currently working on **Express**
 
