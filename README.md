@@ -1,4 +1,4 @@
-![logo](https://github.com/manidumaru/manidumaru/blob/main/Frame%201.png)
+![logo](https://github.com/manidumaru/manidumaru/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mani Dumaru</h1>
 <h4 align="center">Full Stack Developer, but I mostly hang out on the flashy side. You know, where the colors have deep philosophical debates.</h4>
 
