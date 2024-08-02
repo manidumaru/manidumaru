@@ -4,7 +4,7 @@
 
 <img src="https://github.com/manidumaru/manidumaru/blob/main/UI%20Developer.gif" alt="coding" align="right" height="300px">
 
-- 🔭 I’m currently working on **Express**
+- 🔭 I’m currently working on **FastAPI**
 
 - 📫 How to reach me **manidumaru36@gmail.com**
 
